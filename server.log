@@ -1,0 +1,9 @@
+[dotenv@17.2.1] injecting env (8) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+(node:88322) [MONGOOSE] Warning: Duplicate schema index on {"email":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:88322) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(node:88322) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+🚀 Study Tracker API running on port 5001
+📊 Environment: development
+🔗 Health check: http://localhost:5001/api/health
+[0mGET / [33m404[0m 1.541 ms - 52[0m
